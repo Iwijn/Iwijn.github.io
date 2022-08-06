@@ -10,3 +10,7 @@ Add the following line to the new Gemfile:
 > bundle add webrick
 
 > bundle exec jekyll serve
+
+### Update
+
+> bundle update
